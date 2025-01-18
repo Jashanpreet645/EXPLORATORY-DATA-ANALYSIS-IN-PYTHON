@@ -9,32 +9,32 @@ Exploratory Data Analysis (EDA) is a critical step in understanding datasets, id
 
 🔍 Data Exploration
 
-Statistical summaries with Pandas.
+- Statistical summaries with Pandas.
 
-Grouping, aggregations, and pivot tables.
+- Grouping, aggregations, and pivot tables.
 
 🧹 Data Cleaning
 
-Handling missing or duplicate data.
+- Handling missing or duplicate data.
 
-Dealing with outliers.
+- Dealing with outliers.
 
 📈 Visualization Techniques
 
-Univariate, bivariate, and multivariate analysis.
+- Univariate, bivariate, and multivariate analysis.
 
-Advanced visualizations (heatmaps, pair plots).
+- Advanced visualizations (heatmaps, pair plots).
 
-Interactive visualizations with Plotly.
+- Interactive visualizations with Plotly.
 
 🔗 Correlation Analysis
 
-Identifying relationships between variables.
+- Identifying relationships between variables.
 
-Visualizing correlations with heatmaps.
+- Visualizing correlations with heatmaps.
 
 🕒 Time-Series Analysis
 
-Exploring temporal trends.
+- Exploring temporal trends.
 
-Visualizing seasonality and anomalies.
+- Visualizing seasonality and anomalies.
